@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssingh-shubham" alt="ssingh-shubham" /></a> </p>
 
+- 🔭 I’m currently working on **Radiology image interpretation using AI**
+
 - 🌱 I’m currently learning **data structures, frontend development**
 
 - 📝 I regularly write articles on [https://medium.com/@ssingh2534](https://medium.com/@ssingh2534)
@@ -13,11 +15,12 @@
 
 - 📫 How to reach me **ssingh2534@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am shy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-singh-79b143214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-singh-79b143214" height="30" width="40" /></a>
+<a href="https://twitter.com/ssingh__shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssingh__shubham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-singh-79b143214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-singh-79b143214/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ssingh2534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ssingh2534" height="30" width="40" /></a>
 <a href="https://instagram.com/ssingh_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssingh_shubham" height="30" width="40" /></a>
 <a href="https://medium.com/@ssingh2534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ssingh2534" height="30" width="40" /></a>
