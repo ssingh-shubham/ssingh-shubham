@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Radiology image interpretation using AI**
 
-- 🌱 I’m currently learning **data structures, frontend development**
+- 🌱 I’m currently learning **Software Development, Machine Learning Algorithms, Deep Learning Algorithms, Cloud Computing, Cybersecurity**
 
 - 📝 I regularly write articles on [https://medium.com/@ssingh2534](https://medium.com/@ssingh2534)
 
-- 💬 Ask me about **python, C , C++, Prolog**
+- 💬 Ask me about **python, C , C++, Prolog,Java, HTML, css, Javascript, MonoDB, React, Cloudinary**
 
 - 📫 How to reach me **ssingh2534@gmail.com**
 
